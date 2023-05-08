@@ -33,6 +33,7 @@ def gcd():
             hcf=i
     print("GCD of two numbers is:",hcf)
     
+    
 ## Output:
 ![gcd of two number](gcd.png)
 ![2a](https://user-images.githubusercontent.com/119393515/236847518-b927853f-4cf2-4fd9-b93f-3c8d6405a6c8.png)
